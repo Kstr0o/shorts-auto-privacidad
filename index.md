@@ -2,7 +2,7 @@
 
 **shorts-auto** is a private tool used only by its owner to upload his own videos to his own YouTube channels and to check the statistics of those channels. It has no public users and no sign-up.
 
-[Privacy Policy](#privacy-policy) · [Terms of Service](terms) · [Política de privacidad (español)](#política-de-privacidad)
+[Privacy Policy](#privacy-policy) · [Terms of Service](terms) · [Política de privacidad (español)](#política-de-privacidad) · [TikTok uploader](tiktok)
 
 ## Privacy Policy
 
